@@ -1,6 +1,0 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {}
-}- run: curl ip.sb # see if it is the proxy server's ip
-  env:
-    http_proxy: "127.0.0.1:1080"
