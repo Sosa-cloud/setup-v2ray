@@ -19,3 +19,6 @@ works like:
 ## config
 
 `config-base64` is base64 encoded string of V2Ray's `config.json`
+- uses: wangsijie/setup-v2ray@v1
+    with:
+      
